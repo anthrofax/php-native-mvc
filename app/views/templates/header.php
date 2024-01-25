@@ -20,6 +20,9 @@
           <a class="nav-link active" aria-current="page" href="<?= BASE_URL?>">Home</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="<?= BASE_URL;?>/mahasiswa">Mahasiswa</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="<?= BASE_URL;?>/about">About</a>
         </li>
       </ul>
